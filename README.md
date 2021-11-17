@@ -1,2 +1,2 @@
 # Treina-Dev
-Exercícios do programa TreinaDev
+Exercícios do programa TreinaDev feitos por mim.
